@@ -10,7 +10,7 @@ terraform {
 }
 
 provider "yandex" {
-  token     = "y0_AgAAAABkpk0NAATuwQAAAADSwkfOmQ835bV7TKqjVbXe1ht1599AzVs"
+  token     = ""
   cloud_id  = "b1gfqsibs2oth9v8tqp5"
   folder_id = var.folder_id
 }
